@@ -5,6 +5,7 @@ public class CopyOfStudent
     private String _number2;
     private String _name2;
     private int _score;
+    String test;
 
     public CopyOfStudent()
     {
